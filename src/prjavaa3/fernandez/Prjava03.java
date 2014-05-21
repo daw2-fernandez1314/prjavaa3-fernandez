@@ -33,7 +33,7 @@ public class Prjava03 extends Frame
         // "this" Frame adds "this" object as a WindowEvent listener 
  
       setTitle("nova finestraprjavaa3");  // "this" Frame sets title 
-      setSize(350, 100);        // "this" Frame sets initial size 
+      setSize(450, 100);        // "this" Frame sets initial size 
       setVisible(true);         // "this" Frame shows 
    } 
  
